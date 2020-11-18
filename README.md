@@ -1,9 +1,9 @@
 # Startup_tryhackme_room
 room related to gobuster, wireshark 
-#Startup
+### Startup
 
 
-nmap result:
+## nmap result:
 
 PORT   STATE SERVICE
 21/tcp open  ftp
@@ -54,7 +54,7 @@ HOP RTT       ADDRESS
 
 
 
-gobuster result:
+### gobuster result:
 
 /files
 
