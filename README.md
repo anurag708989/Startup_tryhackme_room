@@ -58,7 +58,7 @@ sudo -l
 
 
 
-
+![](/gaining_shell_on_server.png)
 
 
 
