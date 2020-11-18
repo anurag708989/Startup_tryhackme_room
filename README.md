@@ -39,13 +39,13 @@ notice.txt:Whoever is leaving these damn Among Us memes in this share, it IS NOT
 
 
 found ftp upload 
+![](/recipe.png)
 
 
-
-then uploading php reverse shell and turning a netcat listner
-
+### then uploading php reverse shell and turning a netcat listner
 
 
+![](/uploading_reverse_shell.png)
 found some credentials from wireshark:
 www-data@startup:/home$ cd lennie
 cd lennie
